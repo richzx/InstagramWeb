@@ -1,0 +1,18 @@
+.oa{
+    font-size: 50px;
+}
+
+.btn{
+    padding: 10px 15px;
+    background: #000;
+    color: #fff;
+    border-radius: 10px;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.outser{
+    border: 10px solid #555;
+    outline: 10px solid #000;
+    outline-offset: 10px;
+}
